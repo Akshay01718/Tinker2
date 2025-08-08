@@ -79,8 +79,12 @@ https://drive.google.com/file/d/1sxE2FOW7XOqNPGuewYpGp8p7VYVuwEbR/view?usp=drive
 Akshay: Lead developer, database architect, chief dog tail researcher, professional procrastinator who turned ancient wisdom into JSON format. Responsible for the beautiful UI and making data look way more important than it actually is.
 
 Ram: Frontend wizard, animation specialist, cultural researcher extraordinaire. Transformed boring statistics into engaging visual experiences and made sure every hover effect brings joy to users' hearts.
+
+
+
 ---
 Made with ❤️ at TinkerHub Useless Projects 
+
 
 
 
