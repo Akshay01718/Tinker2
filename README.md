@@ -56,16 +56,17 @@ npx live-server
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Home](/images/Home.png)
+<img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/8f4e850c-a216-4833-8380-910d41cb6400" />
 
 
-![Filter](/images/Filter.png)
+<img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/3a64cd7a-69f4-43c9-a130-d6a5fbe6f078" />
 
 
-![Probability](/images/Probability.png)
+<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/9271c4df-28e7-4e3d-a578-366d984b8619" />
 
-![Genetics](/images/Genetics.png)
+
+<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/1a48ac83-3e09-4acb-8e53-1ad6b61e5f4f" />
+
 
 
 ### Project Demo
@@ -80,6 +81,7 @@ Akshay: Lead developer, database architect, chief dog tail researcher, professio
 Ram: Frontend wizard, animation specialist, cultural researcher extraordinaire. Transformed boring statistics into engaging visual experiences and made sure every hover effect brings joy to users' hearts.
 ---
 Made with ❤️ at TinkerHub Useless Projects 
+
 
 
 
