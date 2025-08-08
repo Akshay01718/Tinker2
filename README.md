@@ -48,7 +48,7 @@ open index.html
 
 # Option 2: Local server (recommended)
 python -m http.server 8000
-# Then visit http://localhost:8000
+# Then visit [http://localhost:8000](https://akshay01718.github.io/Tinker2/)
 
 # Option 3: Live server for development
 npx live-server
@@ -81,6 +81,7 @@ Akshay: Lead developer, database architect, chief dog tail researcher, professio
 Ram: Frontend wizard, animation specialist, cultural researcher extraordinaire. Transformed boring statistics into engaging visual experiences and made sure every hover effect brings joy to users' hearts.
 ---
 Made with ❤️ at TinkerHub Useless Projects 
+
 
 
 
